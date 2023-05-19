@@ -35,13 +35,21 @@ Here are some ideas to get you started:
   </p>
  </div>
  
- > "A handsome young man who knows his way around a computer"
+ > "A handsome young man who knows his way around a computer."
  >  
  >  <p>- My Nana</p>
  <br></br>
- > "Quite literally, the most employable person I've ever met"
+ > "Quite literally, the most employable person I have ever met."
  > 
  > <p>- My best friend, Avery</p>
+ <br></br>
+ > "Well done, Josh."
+ > 
+ > <p>- My professor, after I presented a research project</p>
+ 
+ 
+ 
+ <br></br>
   
   
 
