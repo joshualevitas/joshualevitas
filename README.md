@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
 
 
-<p align="center">
+
   <!--- stats (start) -->
 <!--   
  <a href="https://github.com/joshualevitas">
@@ -56,12 +56,13 @@ Here are some ideas to get you started:
   </ul>
 </div>
  
+  <p align="center">
  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=joshualevitas&theme=synthwave&show_icons=true&count_private=true"/>
   <br></br>
    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joshualevitas&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
   
   <br></br>
-
+ </p>
 
 
 <div id="user-content-toc">
