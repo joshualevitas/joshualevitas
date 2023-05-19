@@ -39,21 +39,8 @@ Here are some ideas to get you started:
   
   
 
-
-
-  <!--- stats (start) -->
-<!--   
- <a href="https://github.com/joshualevitas">
-  <img align="center" style="margin:0.5rem,padding-right:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshualevitas&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/joshualevitas">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joshualevitas&theme=dark&show_icons=true&count_private=true"/>
-</a> -->
-<div>
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Some statistics:</summary>
-  </ul>
+<div align="center">
+  <summary><h2 style="display: inline-block">Some statistics:</summary>
 </div>
  
   <p align="center">
