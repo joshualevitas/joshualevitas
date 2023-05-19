@@ -18,7 +18,15 @@ Here are some ideas to get you started:
        alt="snake" /></a>
 </div>
 
-### Oh hi-- I didn't see you there. Welcome to my Github. Feel free to take a look at some of my contribution statistics.
+
+
+
+
+
+### So you're thinking about hiring me.
+<p>
+  Feel free to browse my Github stats, repositories, and skills listed here to see if you think I'll be a good fit. If you want to save some time, I'll cut to the chase: I am.
+</p>
 
 
 <p align="center">
