@@ -47,7 +47,8 @@ Here are some ideas to get you started:
  > 
  > <p>- My professor, after I presented a research project</p>
  
- 
+ <br></br>
+ Email me [here](mailto:joshualevitas+github@gmail.com) to offer me a job or if you just feel like talking.
  
  <br></br>
   
