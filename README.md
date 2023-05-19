@@ -26,9 +26,14 @@ Here are some ideas to get you started:
     <summary><h2 style="display: inline-block">So you're thinking about hiring me.</summary>
   </ul>
 </div>
-<p align="center">
+  
+<div width="80vw">
+<p>
   Feel free to browse my Github stats, repositories, and skills listed here to see if you think I'll be a good fit. If you want to save some time, I'll cut to the chase: I am.
 </p>
+ </div>
+  
+  
 
 
 <p align="center">
