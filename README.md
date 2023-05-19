@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </ul>
 </div>
   
-<div width="80vw">
+<div>
 <p>
   Feel free to browse my Github stats, repositories, and skills listed here to see if you think I'll be a good fit. If you want to save some time, I'll cut to the chase: I am.
 </p>
@@ -43,14 +43,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=joshualevitas&theme=dark&show_icons=true&count_private=true" />
   <br></br>
- 
-</td>
+
 
 <td width="50%" align="center">
 
@@ -58,9 +55,7 @@ Here are some ideas to get you started:
     <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </p>
   
-  </td>
-</tr>
-</table>
+
 
 
 <div id="user-content-toc">
