@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **joshualevitas/joshualevitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
        alt="snake" /></a>
 </div>
 
-
+### Oh hi-- I didn't see you there. Welcome to my Github. Feel free to take a look at some of my contribution statistics.
 
 
 <p align="center">
