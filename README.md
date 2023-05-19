@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">So you're thinking about hiring me.</summary>
-      <p> Email me [here](mailto:joshualevitas+github@gmail.com) to offer me a job or if you just feel like talking.</p>
   </ul>
+          <p> Email me [here](mailto:joshualevitas+github@gmail.com) to offer me a job or if you just feel like talking.</p>
+
 </div>
   
 <div>
