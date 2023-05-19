@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
 
 <div align="center">
-  <summary><h2 style="display: inline-block">Some statistics:</summary>
+  <h2 style="display: inline-block">Some statistics:/>
 </div>
  
   <p align="center">
