@@ -31,23 +31,23 @@ Here are some ideas to get you started:
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=joshualevitas&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=joshualevitas&theme=dark&hide_border=false" /> 
+  <p>
+    test section
+  </p>
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joshualevitas&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <p>
+    test section 2
+  </p>
   
   </td>
 </tr>
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  test
-</div>
-<!--- trophy (start) -->
+
 
 
 </p>        
