@@ -31,15 +31,13 @@ Here are some ideas to get you started:
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=joshualevitas&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <p>
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </p>
+ 
 </td>
 
 <td width="50%" align="center">
 
   <p>
-    test section 2
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </p>
   
   </td>
