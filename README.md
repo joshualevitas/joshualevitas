@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Things I can do</h2></summary>
+    <summary><h2 style="display: inline-block">Things I can do (non-exhaustive, theoretically)</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
