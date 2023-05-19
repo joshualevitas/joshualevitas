@@ -31,10 +31,9 @@ Here are some ideas to get you started:
 </p>
   <p>
     But don't take it from me, just take a look at these reviews:
-    <ul>
-      <li>test</li>
-      <li>test2</li>
-    </ul>
+    <br></br>
+    > test
+    > test2
   </p>
  </div>
   
@@ -51,13 +50,17 @@ Here are some ideas to get you started:
 <a href="https://github.com/joshualevitas">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joshualevitas&theme=dark&show_icons=true&count_private=true"/>
 </a> -->
-
+<div>
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Some statistics:</summary>
+  </ul>
+</div>
  
  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=joshualevitas&theme=synthwave&show_icons=true&count_private=true"/>
   <br></br>
    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joshualevitas&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
   
-  
+  <br></br>
 
 
 
