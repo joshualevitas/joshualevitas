@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 
@@ -31,6 +28,13 @@ Here are some ideas to get you started:
 <p>
   Feel free to browse my Github stats, repositories, and skills listed here to see if you think I'll be a good fit. If you want to save some time, I'll cut to the chase: I am.
 </p>
+  <p>
+    But don't take it from me, just take a look at these reviews:
+    <li>
+      <ul>test</ul>
+      <ul>test2</ul>
+    </li>
+  </p>
  </div>
   
   
@@ -73,11 +77,12 @@ Here are some ideas to get you started:
 <!--  git,github,c,cpp-->
 
 
-
-
-
 </p>        
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 
