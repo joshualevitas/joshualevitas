@@ -83,9 +83,11 @@ Here are some ideas to get you started:
 
 </p>    
 <br></br>
+<p align="center">
 
 ### Email me [here](mailto:joshualevitas+github@gmail.com) to offer me a job or if you just feel like talking.
 
+ </p>
 <br></br>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
