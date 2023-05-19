@@ -43,14 +43,22 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!--- stats (start) -->
+  
+  <a href="https://github.com/braydoncoyer/ng-limeade">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joshualevitas&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/braydoncoyer/officeapi">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=joshualevitas&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=joshualevitas&theme=dark&show_icons=true&count_private=true" />
+<!--   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=joshualevitas&theme=dark&show_icons=true&count_private=true" />
   <br></br>
 
 
  
-   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joshualevitas&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joshualevitas&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> -->
   
   
 
@@ -68,7 +76,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<!--  git,github,c,cpp-->
 
 
 </p>        
