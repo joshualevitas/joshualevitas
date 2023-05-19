@@ -32,15 +32,16 @@ Here are some ideas to get you started:
   <p>
     But don't take it from me, just take a look at these reviews:
     <br></br>
-    > test
-    > test2
   </p>
  </div>
+ 
+ > test
+ > test2
   
   
 
 <div align="center">
-  <h2 style="display: inline-block">Some statistics:/>
+  <h2 style="display: inline-block">Some statistics
 </div>
  
   <p align="center">
