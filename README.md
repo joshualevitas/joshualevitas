@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   Feel free to browse my Github stats, repositories, and skills listed here to see if you think I'll be a good fit. If you want to save some time, I'll cut to the chase: I am.
 </p>
   <p>
-    But don't take it from me, just take a look at these reviews:
+    But don't take it from me, just read these reviews:
     <br></br>
   </p>
  </div>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  > "A handsome young man who knows his way around a computer"
  >  
  >  <p>- My Nana</p>
-
+ <br></br>
  > "Quite literally, the most employable person I've ever met"
  > 
  > <p>- My best friend, Avery</p>
