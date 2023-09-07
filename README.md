@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 </div>
   
 <div>
-<p>
-  Feel free to browse my Github stats, repositories, and skills listed here to see if you think I'll be a good fit. Also, check out my [website](joshualevitas.com)
-</p>
+
+Feel free to browse my Github stats, repositories, and skills listed here to see if you think I'll be a good fit. Also, check out my [website](joshualevitas.com)
   
 <!--   <p>
     But don't take it from me, just read these reviews:
