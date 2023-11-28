@@ -61,7 +61,7 @@ Feel free to browse my Github stats, repositories, and skills listed here to see
 <p align="center">
 <!--    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=joshualevitas&theme=synthwave&show_icons=true&count_private=true"/> -->
 <!--   <br></br> -->
-   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joshualevitas&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+   <img  align="center"  src="https://github-readme-stats.ruby-one.vercel.app/api/top-langs/?username=joshualevitas&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
   
   <br></br>
  </p>
