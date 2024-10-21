@@ -89,10 +89,6 @@ Feel free to browse my Github stats, repositories, and skills listed here to see
 
  </div>
 <br></br>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 
