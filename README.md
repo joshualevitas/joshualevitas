@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 <div>
 
-Feel free to browse my Github stats, repositories, and skills listed here to see if you think I'll be a good fit. Also, check out my [website](joshualevitas.com)
+Feel free to browse my repositories, and skills listed here to see if you think I'll be a good fit.
   
 <!--   <p>
     But don't take it from me, just read these reviews:
@@ -52,19 +52,7 @@ Feel free to browse my Github stats, repositories, and skills listed here to see
 
  <br></br>
   
-  
 
-<div align="center">
-  <h2 style="display: inline-block">Some statistics
-</div>
- 
-<p align="center">
-<!--    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=joshualevitas&theme=synthwave&show_icons=true&count_private=true"/> -->
-<!--   <br></br> -->
-   <img  align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joshualevitas&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
-  
-  <br></br>
- </p>
 
 
 <div id="user-content-toc">
