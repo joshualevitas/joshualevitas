@@ -27,7 +27,10 @@ Here are some ideas to get you started:
   
 <div>
 
+<div align="center">
 Feel free to browse my repositories, and skills listed here to see if you think I'll be a good fit.
+</div>
+
   
 <!--   <p>
     But don't take it from me, just read these reviews:
